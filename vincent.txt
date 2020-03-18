@@ -6,3 +6,4 @@ paul >> modification to vincent's file
 How are you?
 Good!
 
+paul >> another change
