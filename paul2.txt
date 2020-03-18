@@ -2,3 +2,5 @@ created under paulBranch2
 
 ***conflict***
 oh, no
+
+deleted paulBranch2 and branched with paulBranch
