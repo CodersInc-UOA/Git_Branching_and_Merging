@@ -1,11 +1,13 @@
 hello vincent.  thanks for setting up our github acct
 
+welcome.
 
 
-vincent created this git account for us >> https://github.com/CodersInc-UOA/
+
+vincent created this git account for us - https://github.com/CodersInc-UOA/
 
 
-get branch/merge coders' project >> git clone https://github.com/CodersInc-UOA/Git_Branching_and_Merging.git
+get branch/merge coders' project - git clone https://github.com/CodersInc-UOA/Git_Branching_and_Merging.git
 create your new branch >>
 	method 1 (use only method 1 or 2)
 		git branch paul  // create new branch

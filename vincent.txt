@@ -1,9 +1,15 @@
 Hey, guys
 
+How are you?
 
-paul >> modification to vincent's file
+
+
+paul -  modification to vincent's file
 
 How are you?
 Good!
 
-paul >> another change
+paul - another change
+
+Are you serious?
+
