@@ -1,3 +1,7 @@
 hello how r u 
+<<<<<<< HEAD
 
 updated/...?
+=======
+branching
+>>>>>>> d769538e66c8df2b69bcd2e2044c8bb1da8e42a5
