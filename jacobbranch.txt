@@ -1,7 +1,9 @@
 hello how r u 
-<<<<<<< HEAD
+paul's change
+----------------------
+20200321 - paul
 
+
+sijosol's change
+----------------------
 updated/...?
-=======
-branching
->>>>>>> d769538e66c8df2b69bcd2e2044c8bb1da8e42a5
