@@ -17,3 +17,10 @@ create your new branch >>
 create a txt file > josh.txt || sijo.txt
 modify any file the directory > two modifications on a file without a merge should cause a merge conflict under pull request.
 this should be resolved by someone that is not the person who caused the conflict.
+
+changes from paulBranch
+20200321 - paul
+
+
+changes from jacobBranch
+updated/....?
